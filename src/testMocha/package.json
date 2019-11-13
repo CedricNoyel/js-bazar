@@ -1,0 +1,11 @@
+{
+  "name": "nodejstests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R list"
+  },
+  "author": "Cédric N",
+  "license": "ISC"
+}
